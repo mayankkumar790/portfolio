@@ -7,9 +7,7 @@ This portfolio represents my work, skills, and achievements as a developer. It i
 
 ## 🔥 Live Website
 
-👉 [Click here to view my live portfolio](https://mayank-portfolio-1.netlify.app/)  
-*(Replace the link with your GitHub Pages URL)*
-
+👉 [Click here to view my live portfolio](https://mayank-portfolio-1.netlify.app/) 
 ---
 
 ## 🧠 About This Project
